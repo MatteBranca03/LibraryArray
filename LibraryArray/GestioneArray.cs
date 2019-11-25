@@ -8,7 +8,7 @@ namespace LibraryArray
 {
     public class GestioneArray
     {
-            {
+       
         public static void LeggiArray(int[] array)
         {
             for (int i = 0; i < array.Length; i++)
